@@ -1,0 +1,8 @@
+{
+    "orgName": "fazeem Company",
+    "edition": "Developer",
+    "features": ["AuthorApex", "DebugApex", "API", "CustomApps", "CustomTabs"],
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
